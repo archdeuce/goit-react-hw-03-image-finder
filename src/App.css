@@ -1,0 +1,15 @@
+body {
+  background-color: #f5f4f4;
+}
+
+.App {
+  text-align: center;
+}
+
+h1 {
+  color: #74c7b8;
+}
+
+li {
+  list-style: none;
+}
